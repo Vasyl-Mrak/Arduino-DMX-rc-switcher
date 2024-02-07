@@ -2,7 +2,7 @@ This Arduino nano device device is designed to control the RF Remote Control Rel
 
 Used libraries:
 
-ShiftDisplay v.3.6.1 (from master) https://github.com/pmiguelpinto90/ShiftDisplay Library for driving 7-segment displays using shift registers (74HC595).
+ShiftDisplay v.3.6.1 (from master) https://github.com/pmiguelpinto90/ShiftDisplay Library for driving 7-segment displays using shift registers (74HC595 COMMON_ANODE).
 
 GyverButton v.3.8.0 https://github.com/GyverLibs/GyverButton Library for multi-functional button pressing.
 
