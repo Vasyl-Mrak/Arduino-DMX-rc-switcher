@@ -11,3 +11,5 @@ EEPROM
 DMXSerial v.1.5.3 https://github.com/mathertel/DMXSerial/ This is a library for sending and receiving DMX codes using the Arduino platform and MAX485 module
 
 RCSwitch v.2.6.4 Arduino lib to operate 433/315Mhz devices i use 433Mhz RF Transmitter with Receiver Kit. 
+
+I used the receiver from the RF kit and the ReceiverDemo example from the RCSwitch library to capture the signal from the remote control.
