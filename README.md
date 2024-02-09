@@ -17,3 +17,5 @@ I used the receiver from the RF kit and the ReceiverDemo example from the RCSwit
 The code sequence that is transmitted is written in the firmware. Manual addition of the number of channels and code sequence is planned in future versions.
 
 I coded for arduino for the first time, so there is an interrupt conflict, which is expressed in the display blinking when receiving the correct DMX signal.
+
+![Arduino DMX rc-switcher](https://github.com/Vasyl-Mrak/Arduino-DMX-rc-switcher/assets/51472189/321be72c-49bf-4ec9-8bb6-261979164e03)
